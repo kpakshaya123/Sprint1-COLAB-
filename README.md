@@ -2,7 +2,7 @@
 Car Dataset (Data Cleaning and Analysis Preparation)
 
 # 🎯 Objective 
-The goal of this project is to preprocess and clean a raw car sales dataset to make it suitable for analysis and visualization.
+The goal of this project is to preprocess and clean a raw car sales dataset to make it suitable for analysis and visualization.This project transforms a raw and unstructured car sales dataset into a clean format by correcting messy column data, handling missing values, removing duplicates, and ensuring consistency across all records.
 
 # 🛠️ Tools Used 
 * Python
