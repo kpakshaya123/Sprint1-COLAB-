@@ -1,18 +1,17 @@
-Car_Sale_DataSet
-Car Dataset (Data Cleaning and Analysis Preparation)
+Car_Sale_DataSetDataset (Data Cleaning and Analysis Preparation)
 
 🎯 Objective 
-The goal of this project is to preprocess and clean a raw car sales dataset to make it suitable for analysis and visualization.This project transforms a raw and unstructured car sales dataset into a clean format by correcting messy column data, handling missing values, removing duplicates, and ensuring consistency across all records.
+The goal of this project is to preprocess and clean a raw car sales dataset to make it suitable for analysis and visualization.
+This project transforms a raw and unstructured car sales dataset into a clean format by correcting messy column data, handling missing values, removing duplicates, and ensuring consistency across all records.
 
 📊Column Description
-This dataset contains car sales information with the following columns:
-Make
+* Make
 The brand or manufacturer of the car (e.g., Acura, Toyota).
-Model
+* Model
 The specific model of the car (e.g., ILX, TSX).
-Year
+* Year
 The year the car was manufactured or sold.
-Sales
+* Sales
 The number of cars sold (in units or thousands).
 
 
@@ -23,25 +22,25 @@ The number of cars sold (in units or thousands).
   
 ⚙️ Document Processing
 
-Imported and explored the dataset
+* Imported and explored the dataset
 
-Identified missing values using isnull().sum()
+* Identified missing values using isnull().sum()
 
-Replaced missing values with appropriate methods
+* Replaced missing values with appropriate methods
 
-Removed duplicate records
+* Removed duplicate records
 
-Converted columns into appropriate data types
+* Converted columns into appropriate data types
 
-Saved the cleaned dataset without missing values
+* Saved the cleaned dataset without missing values
 
-Prepared the dataset for further analysis
+* Prepared the dataset for further analysis
 
 📁 Repository Contents 
 * Original dataset 
 * Notebook file with cleaning steps
 * Final cleaned dataset
 
-# 🚀 Result 
+🚀 Result 
 
  The dataset is now clean, consistent, and ready for exploratory data analysis and further processing.
