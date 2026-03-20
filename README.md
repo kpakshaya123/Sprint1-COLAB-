@@ -4,12 +4,12 @@ Car Dataset (Data Cleaning and Analysis Preparation)
 # 🎯 Objective 
 The goal of this project is to preprocess and clean a raw car sales dataset to make it suitable for analysis and visualization.
 
-🛠️ Tools Used 
+# 🛠️ Tools Used 
 * Python
 * Pandas
 * Jupyter Notebook / Google Colab
   
-⚙️ Document Processing
+# ⚙️ Document Processing
 
 Imported and explored the dataset
 
@@ -25,11 +25,11 @@ Saved the cleaned dataset without missing values
 
 Prepared the dataset for further analysis
 
-📁 Repository Contents 
+# 📁 Repository Contents 
 * Original dataset 
 * Notebook file with cleaning steps
 * Final cleaned dataset
 
-🚀 Result 
+# 🚀 Result 
 
  The dataset is now clean, consistent, and ready for exploratory data analysis and further processing.
