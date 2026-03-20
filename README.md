@@ -1,15 +1,27 @@
-# Sprint1-COLAB-
+Car_Sale_DataSet
 Car Dataset (Data Cleaning and Analysis Preparation)
 
-# 🎯 Objective 
+🎯 Objective 
 The goal of this project is to preprocess and clean a raw car sales dataset to make it suitable for analysis and visualization.This project transforms a raw and unstructured car sales dataset into a clean format by correcting messy column data, handling missing values, removing duplicates, and ensuring consistency across all records.
 
-# 🛠️ Tools Used 
+📊Column Description
+This dataset contains car sales information with the following columns:
+Make
+The brand or manufacturer of the car (e.g., Acura, Toyota).
+Model
+The specific model of the car (e.g., ILX, TSX).
+Year
+The year the car was manufactured or sold.
+Sales
+The number of cars sold (in units or thousands).
+
+
+🛠️ Tools Used 
 * Python
 * Pandas
 * Jupyter Notebook / Google Colab
   
-# ⚙️ Document Processing
+⚙️ Document Processing
 
 Imported and explored the dataset
 
@@ -25,7 +37,7 @@ Saved the cleaned dataset without missing values
 
 Prepared the dataset for further analysis
 
-# 📁 Repository Contents 
+📁 Repository Contents 
 * Original dataset 
 * Notebook file with cleaning steps
 * Final cleaned dataset
