@@ -26,10 +26,9 @@ Saved the cleaned dataset without missing values
 Prepared the dataset for further analysis
 
 📁 Repository Contents 
-*Original dataset 
-*Notebook file with cleaning steps
-*Final cleaned dataset
+* Original dataset 
+* Notebook file with cleaning steps
+* Final cleaned dataset
 
 🚀 Result 
-
-*The dataset is now clean, consistent, and ready for exploratory data analysis and further processing.
+ The dataset is now clean, consistent, and ready for exploratory data analysis and further processing.
